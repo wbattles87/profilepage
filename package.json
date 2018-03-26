@@ -1,0 +1,41 @@
+{
+    "title": "WillBattlesPortfolio",
+    "name": "will-battles-portfolio",
+    "version": "1.0.0",
+    "description": "My own personal website build with HTML, CSS, Jquery, Javascript, and Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "will battles",
+        "template"
+    ],
+    "homepage": "",
+    "bugs": {
+        "url": "",
+        "email": ""
+    },
+    "license": "Will Battles",
+    "author": "Will Battles",
+    "contributors": [
+        
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.6",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.2",
+        "gulp-header": "2.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0"
+    }
+}
